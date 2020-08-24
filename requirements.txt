@@ -1,0 +1,5 @@
+termcolor
+pyfiglet
+GitPython
+pygithub
+semver
